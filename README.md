@@ -1,2 +1,5 @@
 # ratkojat
-React Native app to search for crossword puzzle words.
+React Native app for searching Finnish crossword puzzle words.
+
+In no way affiliated with ratkojat.fi.
+
