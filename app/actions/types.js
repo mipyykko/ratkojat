@@ -1,0 +1,7 @@
+export const SUBMIT_SEARCH = 'submit_search'
+export const SEARCH_NEXT_PAGE = 'search_next_page'
+export const SEARCH_DATA_RECEIVED = 'search_data_received'
+export const CONTINUE_SEARCH = 'continue_search'
+export const LOADING = 'loading'
+export const SEARCH_SUCCESSFUL = 'search_successful'
+export const SEARCH_FAILED = 'search_failed'
